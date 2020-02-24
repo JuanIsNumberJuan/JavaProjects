@@ -1,0 +1,4 @@
+Using the numbers in the file called: Number.txt
+The sum is 155119.73319999993
+The mean is 77.44370104842733
+The standard deviation is 10.020677222321947
